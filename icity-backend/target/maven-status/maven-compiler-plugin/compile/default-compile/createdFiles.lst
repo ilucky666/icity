@@ -1,0 +1,13 @@
+com\icity\controller\PoiController.class
+com\icity\mapper\RenewalProjectMapper.class
+com\icity\mapper\PoiMapper.class
+com\icity\entity\Poi.class
+com\icity\service\PoiService.class
+com\icity\service\RenewalUnitService.class
+com\icity\controller\RenewalUnitController.class
+com\icity\controller\RenewalProjectController.class
+com\icity\entity\RenewalUnit.class
+com\icity\service\RenewalProjectService.class
+com\icity\mapper\RenewalUnitMapper.class
+com\icity\IcityApplication.class
+com\icity\entity\RenewalProject.class
