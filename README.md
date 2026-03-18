@@ -1,4 +1,4 @@
-<img width="2559" height="1228" alt="屏幕截图 2026-03-17 051351" src="https://github.com/user-attachments/assets/549cadf9-2da5-4221-90c4-6af3256daad5" /># 城新智数 (City Innovation Smart Data)
+# 城新智数 (City Innovation Smart Data)
 
 > **基于舒适物理论的武汉市城市更新与创新空间 WebGIS 平台**  
 > *WebGIS Platform for Urban Renewal & Innovation Space in Wuhan based on Urban Amenities Theory*
@@ -13,8 +13,6 @@
 <img width="1000" height="492" alt="屏幕截图 2026-03-17 051202" src="https://github.com/user-attachments/assets/d2373424-351b-4ce8-bb74-f6ddcc2471c9" />
 <img width="1000" height="492" alt="屏幕截图 2026-03-17 051337" src="https://github.com/user-attachments/assets/231a205d-67b8-448e-94d8-b7d1de2a4e3b" />
 <img width="1000" height="492" alt="屏幕截图 2026-03-17 051351" src="https://github.com/user-attachments/assets/d853da50-494f-4538-add1-e2a56d2e7bfd" />
-
-
 
 ## 📖 项目背景 (Background)
 
