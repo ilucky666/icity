@@ -8,6 +8,12 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14+-336791?style=flat-square&logo=postgresql)](https://www.postgresql.org/)
 [![Leaflet](https://img.shields.io/badge/Leaflet-1.9-199900?style=flat-square&logo=leaflet)](https://leafletjs.com/)
 
+<img width="1000" height="492" alt="屏幕截图 2026-03-17 051128" src="https://github.com/user-attachments/assets/77753b08-f41a-449a-9a6e-5a258a92b66f" />
+<img width="1000" height="492" alt="屏幕截图 2026-03-17 051308" src="https://github.com/user-attachments/assets/e612b983-f314-4850-a0b0-1b9c549b9cd6" />
+<img width="1000" height="492" alt="屏幕截图 2026-03-17 051202" src="https://github.com/user-attachments/assets/d2373424-351b-4ce8-bb74-f6ddcc2471c9" />
+<img width="1000" height="492" alt="屏幕截图 2026-03-17 051202" src="https://github.com/user-attachments/assets/ef461b85-c50b-4243-9208-3078f8feee34" />
+<img width="1000" height="492" alt="屏幕截图 2026-03-17 051351" src="https://github.com/user-attachments/assets/d853da50-494f-4538-add1-e2a56d2e7bfd" />
+
 ## 📖 项目背景 (Background)
 
 本项目脱胎于《城市更新与创新产业发展之间的关系》实证研究。研究聚焦武汉市，基于**“城市舒适物理论”** (Urban Amenities Theory)，提出了核心论点：
